@@ -1,0 +1,60 @@
+17:42:58,233 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+17:42:58,237 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+17:42:58,237 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+17:42:58,237 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+17:42:58,238 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+17:42:58,239 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+17:42:58,239 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+17:42:58,239 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+17:42:58,240 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+17:42:58,241 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+17:42:58,242 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+17:42:58,242 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+17:42:58,243 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+17:42:58,243 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+17:42:58,243 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+17:42:58,244 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+17:42:58,244 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+17:42:58,249 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+17:42:58,250 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+17:42:58,251 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+17:42:58,251 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+17:42:58,252 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+17:42:58,253 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+17:42:58,254 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+17:42:58,254 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+17:42:58,255 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+17:42:58,255 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+17:42:58,257 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+17:42:58,258 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+17:42:58,263 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+17:42:58,264 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+17:42:58,264 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+17:42:58,265 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+17:42:58,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+17:42:58,448 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+17:42:58,450 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+17:42:58,451 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+17:43:00,427 - [MAIN] - ERROR - Bussiness.BaseBussiness - UpdateRanked
+17:45:58,645 - [16] - ERROR - Game.Server.GameServer - RsaCryptor
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Game.Server.Packets.Client.UserLoginHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Server.Packets\Client\UserLoginHandler.cs:line 26
+18:43:00,258 - [67] - ERROR - Bussiness.BaseBussiness - UpdateRanked
+19:26:58,406 - [47] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.WonderfulGetRewardHandler  client: 27.71.56.66:55524)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GMActives.GmActivityMgr.CloneFromGmReward(GmActiveRewardInfo awn) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Server.GMActives\GmActivityMgr.cs:line 350
+   at Game.Server.GMActives.GmActivityMgr.CreateGmAwardsToItems(GmActivityInfo gmActivity, String giftId, Boolean sex, Int32 rewardType) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Server.GMActives\GmActivityMgr.cs:line 337
+   at Game.Server.GMActives.AccumRechargeMoney.GetAward(GamePlayer player, String giftGroupId, Int32 index) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Server.GMActives\AccumRechargeMoney.cs:line 44
+   at Game.Server.Packets.Client.WonderfulGetRewardHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Server.Packets\Added\WonderfulGetRewardHandler.cs:line 44
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\GunnyKyUcNewSource\GunnyKyUcNewSource\New folder\gameSrc\Game.Server\Game.Base.Packets\PacketProcessor.cs:line 81
+19:26:58,421 - [47] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 39 07 39 01 75 00 00 00 E3 00 00 00 00   q..9.9.u........
+0010: 00 00 00 00 00 00 00 01 00 0C 4E 61 70 2D 44 61   ..........Nap-Da
+0020: 75 2D 54 75 61 6E 00 00 00 01 00 00 00 01 00 05   u-Tuan..........
+0030: 6E 64 74 2D 37 00 00 00 00                        ndt-7....       
+
+19:30:35,274 - [34] - ERROR - Game.Server.ActiveSystem.Handle.ActiveSystemHandleMgr - LoadCommandHandler code002: 145

@@ -1,0 +1,2821 @@
+{
+  "UsersData": {
+    "DN14": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [
+          {
+            "giftID": "DN14-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-21T20:50:47.6329947+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "DN14-2",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-22T17:51:48.2738697+07:00",
+            "TotalCount": 1
+          },
+          {
+            "giftID": "DN14-3",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-23T09:29:35.1302464+07:00",
+            "TotalCount": 1
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 2
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 2
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 2
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 0
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 0
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "DN14-1",
+            "times": 0,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-23T00:09:54.5018588+07:00",
+            "TotalCount": 1
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 0
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "DN14-1",
+            "times": 0,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-22T17:52:39.3167511+07:00",
+            "TotalCount": 1
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 0
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "DN14-1",
+            "times": 0,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-22T23:22:16.1397346+07:00",
+            "TotalCount": 1
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 0
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [
+          {
+            "giftID": "DN14-1",
+            "times": 0,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-22T23:32:21.6487647+07:00",
+            "TotalCount": 1
+          },
+          {
+            "giftID": "DN14-2",
+            "times": 0,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-23T10:35:48.9696969+07:00",
+            "TotalCount": 1
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1
+          },
+          "1": {
+            "StatusID": 1,
+            "StatusValue": 1
+          },
+          "2": {
+            "StatusID": 2,
+            "StatusValue": 0
+          },
+          "3": {
+            "StatusID": 3,
+            "StatusValue": 0
+          },
+          "4": {
+            "StatusID": 4,
+            "StatusValue": 0
+          },
+          "5": {
+            "StatusID": 5,
+            "StatusValue": 0
+          },
+          "6": {
+            "StatusID": 6,
+            "StatusValue": 0
+          },
+          "7": {
+            "StatusID": 7,
+            "StatusValue": 0
+          },
+          "8": {
+            "StatusID": 8,
+            "StatusValue": 0
+          },
+          "9": {
+            "StatusID": 9,
+            "StatusValue": 0
+          },
+          "10": {
+            "StatusID": 10,
+            "StatusValue": 0
+          },
+          "11": {
+            "StatusID": 11,
+            "StatusValue": 0
+          },
+          "12": {
+            "StatusID": 12,
+            "StatusValue": 0
+          },
+          "13": {
+            "StatusID": 13,
+            "StatusValue": 0
+          },
+          "14": {
+            "StatusID": 14,
+            "StatusValue": 0
+          },
+          "15": {
+            "StatusID": 15,
+            "StatusValue": 0
+          },
+          "16": {
+            "StatusID": 16,
+            "StatusValue": 0
+          },
+          "17": {
+            "StatusID": 17,
+            "StatusValue": 0
+          },
+          "18": {
+            "StatusID": 18,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Doi-Vat-Pham": [
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      }
+    ],
+    "Nap-Dau-Tuan": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "ndt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-16T21:13:36.0943893+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 500000
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "ndt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T21:16:04.7158263+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 100000
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "ndt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-16T14:55:18.252624+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10000
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "ndt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T00:23:19.0057764+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1900000
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1000000
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Tieu-Dau-Tuan": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "tdt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T21:16:40.788866+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 70690
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "tdt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T21:16:06.7951973+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 603810
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "tdt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T22:40:22.2911471+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 4950
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "tdt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T00:23:21.3286339+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 9608594
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "tdt-1",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:16:37.7169437+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10676959
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 3001270
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Toan-Dan-VIP": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 5
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "TOP-Cap-Do": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "dsada",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 4554392
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 4000
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 50000003
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 20027093
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 10025898
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 29898
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 25898
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 26898
+      }
+    ],
+    "TOP-Luc-Chien": [
+      {
+        "UserID": -1000000,
+        "UserName": null,
+        "NickName": "Robot",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 2386
+      },
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 5994
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 2844770
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 15284
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 1,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 91930
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1575
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 222628
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 3621
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1575
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1377
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1563
+      }
+    ],
+    "Vua-Cuong-Hoa": [
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Vua-Luc-Chien": [
+      {
+        "UserID": -1000000,
+        "UserName": null,
+        "NickName": "Robot",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 2386
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 5959
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lc-10000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T00:23:25.998484+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-50000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:26:45.4717535+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-40000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:26:47.6350613+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-30000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:26:49.7769647+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-20000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:26:51.9501455+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 2738333
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lc-10000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T21:16:14.4527247+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 14206
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1575
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lc-50000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T23:09:28.4847945+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-40000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T23:09:31.1878844+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-10000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T23:09:33.3754018+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-30000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T23:09:35.9066578+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lc-20000",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T23:09:37.9535229+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 3515
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 80592
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 3553
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1575
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1377
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 1563
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Vua-Nap-Xu": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 500000
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 2,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 100000
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 1,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 10000
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1900000
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 1000000
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      }
+    ],
+    "Vua-Tang-Cap": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T21:53:56.9806118+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T22:01:09.1115643+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-20",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T00:23:23.4861384+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-30",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:26:41.9306699+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-12T22:25:12.2381452+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-20",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T21:16:08.388977+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-30",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-14T21:16:10.7652261+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:16:39.5729755+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-20",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:16:43.4218798+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-30",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T15:16:46.7000166+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-19T13:39:51.2866537+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-30",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-19T13:39:53.3875246+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "lv-20",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-19T13:39:56.8813062+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 30
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "lv-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-21T23:13:19.1145631+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 10
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Vua-Tien-Hoa": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 0,
+        "GiftsReceivedList": [
+          {
+            "giftID": "th-30",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T16:22:02.4233802+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "th-10",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T16:22:05.1093906+07:00",
+            "TotalCount": 0
+          },
+          {
+            "giftID": "th-20",
+            "times": 1,
+            "allGiftGetTimes": 0,
+            "lastTimeGet": "2023-07-15T16:22:07.1250326+07:00",
+            "TotalCount": 0
+          }
+        ],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 50
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 3
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {
+          "0": {
+            "StatusID": 0,
+            "StatusValue": 0
+          }
+        },
+        "Value": 0
+      }
+    ],
+    "Vua-Tieu-Xu": [
+      {
+        "UserID": 6,
+        "UserName": "chauquan023",
+        "NickName": "đah",
+        "VipLevel": 3,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 70690
+      },
+      {
+        "UserID": 9,
+        "UserName": "hoangham",
+        "NickName": "hoàng",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 9608594
+      },
+      {
+        "UserID": 5,
+        "UserName": "tacphong2",
+        "NickName": "asdad",
+        "VipLevel": 1,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 582810
+      },
+      {
+        "UserID": 1,
+        "UserName": "tacphong1",
+        "NickName": "sdad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 4950
+      },
+      {
+        "UserID": 3,
+        "UserName": "kienbukso102",
+        "NickName": "ádasdasd1",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 10,
+        "UserName": "admin01",
+        "NickName": "test",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 12,
+        "UserName": "gunnytest",
+        "NickName": "FLC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 10676959
+      },
+      {
+        "UserID": 13,
+        "UserName": "hoangham1",
+        "NickName": "ẻ",
+        "VipLevel": 4,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 3001270
+      },
+      {
+        "UserID": 14,
+        "UserName": "thanhluan1010",
+        "NickName": "luân",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 2,
+        "UserName": "tacphong2",
+        "NickName": "áda",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 15,
+        "UserName": "tacphong13",
+        "NickName": "asdw",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 16,
+        "UserName": "tacphong14",
+        "NickName": "ccaas",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 8,
+        "UserName": "tacphong",
+        "NickName": "ádad",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 17,
+        "UserName": "chauquan01",
+        "NickName": "cachung",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 18,
+        "UserName": "hoanghulo",
+        "NickName": "rrfdfdsx",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      },
+      {
+        "UserID": 19,
+        "UserName": "admin230398",
+        "NickName": "ADMINKYUC",
+        "VipLevel": 0,
+        "GiftsReceivedList": [],
+        "StatusList": {},
+        "Value": 0
+      }
+    ]
+  },
+  "ListActIDAwardsSended": []
+}

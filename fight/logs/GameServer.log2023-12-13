@@ -1,0 +1,374 @@
+01:02:11,577 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+01:02:11,595 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+01:02:11,659 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+01:02:11,659 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+01:02:11,659 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+01:02:11,659 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+01:02:11,968 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+01:02:12,558 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+01:02:12,573 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+01:02:12,636 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+01:02:12,636 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+01:02:12,636 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+01:02:12,636 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+01:02:12,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+01:02:12,745 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13001.bomb
+01:02:12,751 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13002.bomb
+01:02:12,751 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13003.bomb
+01:02:12,887 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13401.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13402.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13403.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\13404.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\134012.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\134022.bomb
+01:02:12,936 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\134032.bomb
+01:02:12,952 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\134042.bomb
+01:02:12,952 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\134011.bomb
+01:02:12,952 - [MAIN] - ERROR - G06:03:36,690 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+06:03:36,708 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+06:03:36,770 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+06:03:36,770 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+06:03:36,770 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+06:03:36,770 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+06:03:37,146 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+06:03:37,521 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+06:03:37,537 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+06:03:37,631 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+06:03:37,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+06:03:37,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+06:03:37,666 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+06:03:37,666 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+06:03:37,896 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+06:03:37,896 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+06:03:37,896 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+06:03:37,974 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+06:03:37,974 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+06:03:38,023 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+06:03:38,058 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+06:03:38,115 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+06:03:38,115 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+06:03:38,127 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 16 spell handlers from GameServer Assembly!
+06:03:38,127 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+06:03:38,146 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+06:03:42,724 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:51658
+06:03:43,622 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:51659
+07:21:22,425 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:21:24,066 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:21:25,457 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:23:35,666 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+07:23:35,698 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+07:23:35,763 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+07:23:35,763 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+07:23:35,763 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+07:23:35,763 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+07:23:36,183 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+07:23:36,614 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+07:23:36,631 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+07:23:36,740 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+07:23:36,740 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+07:23:36,740 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+07:23:36,740 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+07:23:36,755 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+07:23:36,771 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+07:23:36,786 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+07:23:36,788 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+07:23:37,068 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+07:23:37,068 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+07:23:37,068 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+07:23:37,130 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+07:23:37,145 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+07:23:37,231 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+07:23:37,285 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+07:23:37,334 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+07:23:37,334 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+07:23:37,349 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 16 spell handlers from GameServer Assembly!
+07:23:37,349 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+07:23:37,380 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+07:32:02,417 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:32:17,784 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+07:32:17,800 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+07:32:17,870 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+07:32:17,870 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+07:32:17,870 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+07:32:17,870 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+07:32:18,246 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+07:32:18,649 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+07:32:18,682 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+07:32:18,794 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+07:32:18,810 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+07:32:18,824 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+07:32:18,842 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+07:32:18,855 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+07:32:18,874 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+07:32:19,074 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+07:32:19,074 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+07:32:19,074 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+07:32:19,118 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+07:32:19,137 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+07:32:19,168 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+07:32:19,215 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+07:32:19,261 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+07:32:19,261 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+07:32:19,277 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 16 spell handlers from GameServer Assembly!
+07:32:19,277 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+07:32:19,293 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+07:33:13,856 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:52076
+07:33:14,559 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:52077
+07:37:00,187 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:37:00,187 - [13] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:37:02,203 - [13] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:40:52,913 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+07:40:52,929 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+07:40:53,008 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+07:40:53,008 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+07:40:53,008 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+07:40:53,008 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+07:40:53,336 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+07:40:53,747 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+07:40:53,773 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+07:40:53,867 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+07:40:53,877 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+07:40:53,893 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+07:40:53,909 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+07:40:53,925 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+07:40:53,930 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+07:40:53,930 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+07:40:54,149 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+07:40:54,149 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+07:40:54,149 - [MAIN] - ERROR - Game.L17:42:53,955 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+17:42:53,972 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+17:42:54,042 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+17:42:54,043 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+17:42:54,044 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+17:42:54,045 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+17:42:54,396 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+17:42:54,742 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+17:42:54,755 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+17:42:54,840 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+17:42:54,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+17:42:54,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+17:42:54,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+17:42:54,847 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+17:42:54,848 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+17:42:54,848 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+17:42:54,848 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+17:42:54,849 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+17:42:54,851 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+17:42:54,851 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+17:42:54,852 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+17:42:54,852 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+17:42:54,852 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+17:42:54,853 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+17:42:54,854 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+17:42:54,854 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+17:42:54,861 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+17:42:54,862 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+17:42:54,863 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+17:42:54,864 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+17:42:54,865 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+17:42:54,865 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+17:42:54,866 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+17:42:54,867 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+17:42:54,867 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+17:42:54,868 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+17:42:54,868 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+17:42:54,869 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+17:42:55,077 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+17:42:55,079 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+17:42:55,083 - [MAIN] - ERROR - Game.L20:33:14,850 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9308: True
+20:33:14,866 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+20:33:14,967 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+20:33:14,967 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+20:33:14,967 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+20:33:14,967 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+20:33:15,370 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+20:33:16,078 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+20:33:16,111 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11426.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11427.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11428.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11429.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11430.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11431.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11432.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11433.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11434.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11436.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11437.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11438.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11439.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11440.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11441.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11442.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11443.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11444.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11445.bomb
+20:33:16,246 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11446.bomb
+20:33:16,263 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11447.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11448.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11449.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11451.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11452.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11455.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11456.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11457.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11458.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11459.bomb
+20:33:16,266 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11460.bomb
+20:33:16,282 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11461.bomb
+20:33:16,282 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11463.bomb
+20:33:16,282 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11465.bomb
+20:33:16,520 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11422.bomb
+20:33:16,520 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11423.bomb
+20:33:16,520 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\11425.bomb
+20:33:16,588 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+20:33:16,623 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+20:33:16,687 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+20:33:16,765 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+20:33:16,814 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+20:33:16,814 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+20:33:16,832 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 16 spell handlers from GameServer Assembly!
+20:33:16,832 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+20:33:16,859 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+20:33:22,375 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:53495
+20:33:23,328 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 15.235.163.5:53496
+22:16:21,306 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 43.157.54.73:23234
+22:16:23,057 - [59] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+22:16:33,199 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 43.157.54.73:33758
+22:16:34,698 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+22:16:44,870 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 43.157.54.73:43694
+22:16:46,371 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0

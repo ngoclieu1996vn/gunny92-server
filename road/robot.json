@@ -1,0 +1,122 @@
+[
+  {
+    "Name":"Tống Giang",
+    "Level":20,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  },
+  {
+    "Name":"Ngô Dụng",
+    "Level":24,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  },
+  {
+    "Name":"Quan Thắng",
+    "Level":27,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  },
+  {
+    "Name":"Tần Minh",
+    "Level":17,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  },
+  {
+    "Name":"Lý Ứng",
+    "Level":21,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  },
+  {
+    "Name":"Võ Tòng",
+    "Level":24,
+    "GP":0,
+    "Sex":false,
+    "UserType":1,
+    "VIPLevel":0,
+    "typeVIP":2,
+    "State":1,
+    "masterID":0,
+    "apprenticeshipState":1,
+    "VIPExpireDay":"1\/1\/2018 12:00:00 AM",
+    "Equips":[
+      {
+        "ID":7001,
+        "Strength":0,
+        "Compose":0
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+# Gunny 9.2 Server .gitignore
+*.log
+*.tmp
+center_err.txt
+center_out.txt
+fight_err.txt
+fight_out.txt
+road_err.txt
+road_out.txt
+*.vshost.exe*
+*.pdb
